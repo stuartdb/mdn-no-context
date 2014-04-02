@@ -10,7 +10,7 @@ Installation
 
 You will need to have the [Greasemonkey](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/) addon installed.
 
-Navigate to the raw ```/min-ytdl.user.js``` file in this repository or [click here](https://github.com/stuartdb/mdn-no-context/raw/master/mdn-no-context-user.js) and it should install the script.
+Navigate to the raw ```/mdn-no-context.user.js``` file in this repository or [click here](https://github.com/stuartdb/mdn-no-context/raw/master/mdn-no-context-user.js) and it should install the script.
 
 License
 -------
